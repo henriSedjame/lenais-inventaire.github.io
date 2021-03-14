@@ -19597,7 +19597,7 @@ uP:function(a){var s
 if(P.ahM(a).gJZ())return P.Nr(C.hy,a,C.a6,!1)
 s=this.gTs()
 if(s==null)s=""
-return P.Nr(C.hy,s+("="lenais-inventaire.github.io/assets/"+H.c(a)),C.a6,!1)},
+return P.Nr(C.hy,s+("lenais-inventaire.github.io/assets/"+H.c(a)),C.a6,!1)},
 dC:function(a,b){return this.a5i(a,b)},
 a5i:function(a,b){var s=0,r=P.a7(t.V4),q,p=2,o,n=[],m=this,l,k,j,i,h,g,f,e
 var $async$dC=P.a1(function(c,d){if(c===1){o=d
