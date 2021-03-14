@@ -20884,7 +20884,7 @@ var $async$iO=P.a1(function(a1,a2){if(a1===1){o=a2
 s=p}while(true)switch(s){case 0:b=null
 p=4
 s=7
-return P.a_(a0.dC(0,"lenais-inventaire.github.io/FontManifest.json"),$async$iO)
+return P.a_(a0.dC(0,"FontManifest.json"),$async$iO)
 case 7:b=a2
 p=2
 s=6
@@ -27136,7 +27136,7 @@ var $async$iO=P.a1(function(a4,a5){if(a4===1){o=a5
 s=p}while(true)switch(s){case 0:a1=null
 p=4
 s=7
-return P.a_(a3.dC(0,"lenais-inventaire.github.io/FontManifest.json"),$async$iO)
+return P.a_(a3.dC(0,"FontManifest.json"),$async$iO)
 case 7:a1=a5
 p=2
 s=6
